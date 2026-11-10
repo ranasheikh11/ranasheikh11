@@ -5,27 +5,41 @@
 
 <br/><br/>
 
-<!-- Animated Typing Intro -->
+<!-- Clean Typing SVG (Clean URL without unsupported emojis) -->
 <a href="https://ranasheikh.is-a.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=820&height=50&lines=🚀+Full-Stack+Mobile+Engineer;📱+Flutter+%26+Dart+Specialist+%7C+Android+%26+iOS;🏗️+Clean+Architecture+%7C+BLoC+%7C+GetX+%7C+Riverpod;⚡+4%2B+Years+Experience+%7C+15%2B+Production+Apps+Shipped;🌟+4.8%2B+Star+App+Store+%26+Play+Store+Ratings;💼+Flutter+Developer+@+SM+Technology;🌐+Explore+My+Live+Portfolio+at+ranasheikh.is-a.dev!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Mobile+Engineer;Flutter+%26+Dart+Specialist+%7C+Android+%26+iOS;Clean+Architecture+%7C+BLoC+%7C+GetX+%7C+Riverpod;4%2B+Years+Experience+%7C+15%2B+Production+Apps;4.8%2B+Star+Play+Store+%26+App+Store+Ratings;Explore+My+Live+Apps+at+ranasheikh.is-a.dev" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Status Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ranasheikh11&label=👁️%20Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ranasheikh11?label=👥%20Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/🎯%20Open%20To%20Work-YES-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Open To Work" />
-  <img src="https://img.shields.io/badge/📍%20Location-Mymensingh%20%2F%20Dhaka-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Location" />
+<!-- Organized Status & Highlights Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Experience" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Mymensingh%20%2F%20Dhaka-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ranasheikh11&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Views" />
 </p>
 
 <!-- Social & Contact Quick Links -->
-<p>
-  <a href="https://ranasheikh.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-🌐%20ranasheikh.is--a.dev-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ranasheikh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rana6424sheikh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/8801613475871" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<p align="center">
+  <a href="https://ranasheikh.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐%20ranasheikh.is--a.dev-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ranasheikh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:rana6424sheikh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/8801613475871" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 </div>
@@ -34,13 +48,13 @@
 
 ## 👨‍💻 Professional Summary
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding GIF" />
 
 Results-driven **Full-Stack Mobile Engineer** with over **4+ years of professional experience** architecting and shipping **15+ production-grade** cross-platform applications across **Fintech, Healthtech, AI, and On-Demand Marketplace** domains.
 
 - 💼 **Current Position:** Flutter Developer at **SM Technology** (Dhaka, Bangladesh).
 - 📱 **Proven Track Record:** Consistently maintaining high store ratings (**4.8+ stars**), optimizing backend latency, and publishing open-source packages on **pub.dev**.
-- 🏗️ **Core Philosophy:** Clean Architecture, scalable state management (**BLoC, GetX, Riverpod**), modular design, and robust backend integrations (**Node.js, Firebase, Supabase, WebSockets**).
+- 🏗️ **Core Philosophy:** Clean Architecture, scalable reactive state management (**BLoC, GetX, Riverpod**), modular UI libraries, and robust backend integrations (**Node.js, Firebase, Supabase, WebSockets**).
 - 🎓 **Education:** Diploma in Computer Science & Technology (CST) at **Mymensingh Polytechnic Institute** (2022 – 2026).
 
 ```dart
@@ -48,7 +62,7 @@ Results-driven **Full-Stack Mobile Engineer** with over **4+ years of profession
 
 class RanaSheikh extends FullStackMobileEngineer {
   final String name     = "Rana Sheikh";
-  final String title    = "Full-Stack Mobile Engineer | Flutter & Node.js Specialist";
+  final String role     = "Full-Stack Mobile Engineer | Flutter & Node.js Specialist";
   final String location = "Mymensingh / Dhaka, Bangladesh 🇧🇩";
   final int    experienceYears = 4;
 
@@ -58,7 +72,7 @@ class RanaSheikh extends FullStackMobileEngineer {
     "Node.js & Express.js",
     "Firebase & Supabase",
     "BLoC, GetX & Riverpod",
-    "REST APIs & Socket.IO",
+    "REST APIs & WebSockets",
     "Clean Architecture & CI/CD",
   ];
 
@@ -94,11 +108,12 @@ Real-world production apps engineered, published, and maintained for global clie
     <img src="https://img.shields.io/badge/Live_Website-doerly.pro-00D9FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
   </a>
   <br/><br/>
-  <p><b>App Screenshots:</b></p>
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="180" alt="Doerly Preview 1" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="180" alt="Doerly Preview 2" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/nvdn8etrficmknvwhuhz.jpg" width="180" alt="Doerly Preview 3" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/sglxnh8khgfr7vfylr7j.jpg" width="180" alt="Doerly Preview 4" style="border-radius: 12px; margin: 4px;" />
+  <p align="center">
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="175" alt="Doerly Preview 1" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="175" alt="Doerly Preview 2" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/nvdn8etrficmknvwhuhz.jpg" width="175" alt="Doerly Preview 3" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/sglxnh8khgfr7vfylr7j.jpg" width="175" alt="Doerly Preview 4" />
+  </p>
 </div>
 
 <br/>
@@ -114,11 +129,12 @@ Real-world production apps engineered, published, and maintained for global clie
     <img src="https://img.shields.io/badge/Google_Play_Store-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
   </a>
   <br/><br/>
-  <p><b>App Screenshots:</b></p>
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="180" alt="WanderX Preview 1" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="180" alt="WanderX Preview 2" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/rin5mquofps8gweyh9c4.jpg" width="180" alt="WanderX Preview 3" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551316/portfolio_projects/vqkfkgctopd8ztl6ffrs.jpg" width="180" alt="WanderX Preview 4" style="border-radius: 12px; margin: 4px;" />
+  <p align="center">
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="175" alt="WanderX Preview 1" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="175" alt="WanderX Preview 2" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/rin5mquofps8gweyh9c4.jpg" width="175" alt="WanderX Preview 3" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551316/portfolio_projects/vqkfkgctopd8ztl6ffrs.jpg" width="175" alt="WanderX Preview 4" />
+  </p>
 </div>
 
 <br/>
@@ -134,11 +150,12 @@ Real-world production apps engineered, published, and maintained for global clie
     <img src="https://img.shields.io/badge/Google_Play_Store-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
   </a>
   <br/><br/>
-  <p><b>App Screenshots:</b></p>
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="180" alt="Sable Dreams Preview 1" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="180" alt="Sable Dreams Preview 2" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/tmcsxrx7igmqoyyrab1d.jpg" width="180" alt="Sable Dreams Preview 3" style="border-radius: 12px; margin: 4px;" />
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/nibjsyzko5bduavdweme.jpg" width="180" alt="Sable Dreams Preview 4" style="border-radius: 12px; margin: 4px;" />
+  <p align="center">
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="175" alt="Sable Dreams Preview 1" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="175" alt="Sable Dreams Preview 2" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/tmcsxrx7igmqoyyrab1d.jpg" width="175" alt="Sable Dreams Preview 3" />&nbsp;
+    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/nibjsyzko5bduavdweme.jpg" width="175" alt="Sable Dreams Preview 4" />
+  </p>
 </div>
 
 <br/>
@@ -147,15 +164,38 @@ Real-world production apps engineered, published, and maintained for global clie
 
 ### 4. 🚗 Additional Notable Client Projects
 
-<div align="center">
+<details open>
+<summary><b>✨ Click to Collapse / Expand Additional Client Projects</b></summary>
+<br/>
 
-| App | Description | Screenshots |
-|---|---|---|
-| **BHookD** | On-demand roadside assistance & emergency towing platform | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="110" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="110" /> |
-| **Blossom Wellness** | Holistic wellness companion with health habits, coaching & routine tracking | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="110" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="110" /> |
-| **ContractClear** | Smart contract analysis and legal document verification tool | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="110" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="110" /> |
+#### 🛞 BHookD — On-Demand Roadside Assistance & Emergency Towing
+Connects stranded drivers with nearby towing trucks and emergency roadside mechanics in real-time with GPS dispatching.
 
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="180" alt="BHookD 1" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="180" alt="BHookD 2" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/wnrallrdovmbjbbe4fxr.jpg" width="180" alt="BHookD 3" />
+</p>
+
+#### 🌸 Blossom Wellness — Holistic Health, Routines & Habit Coaching
+Comprehensive habit tracking, daily wellness routines, mindfulness exercises, and habit coaching.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="180" alt="Blossom 1" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="180" alt="Blossom 2" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/h6lalme748xc8ru3dfqt.jpg" width="180" alt="Blossom 3" />
+</p>
+
+#### ⚖️ ContractClear — Smart Contract Analysis & Legal Document Verification
+AI-powered document parser, risk detector, and clause comparison engine for legal agreements.
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="180" alt="ContractClear 1" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="180" alt="ContractClear 2" />&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/hw6kq9yqcx0jbldkuqwj.jpg" width="180" alt="ContractClear 3" />
+</p>
+
+</details>
 
 ---
 
@@ -256,7 +296,7 @@ Explore my open-source tools, developer utilities, and software packages:
 </a>
 &nbsp;
 <a href="mailto:rana6424sheikh@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-rana6424sheikh%40gmail.com-00D9FF?style=for-the-badge" alt="Email" />
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-rana6424sheikh%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://wa.me/8801613475871" target="_blank">
