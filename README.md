@@ -5,14 +5,14 @@
 
 <br/><br/>
 
-<!-- Clean Typing SVG (Clean URL without unsupported emojis) -->
+<!-- Clean Typing SVG (Optimized with JetBrains Mono) -->
 <a href="https://ranasheikh.is-a.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Mobile+Engineer;Flutter+%26+Dart+Specialist+%7C+Android+%26+iOS;Clean+Architecture+%7C+BLoC+%7C+GetX+%7C+Riverpod;4%2B+Years+Experience+%7C+15%2B+Production+Apps;4.8%2B+Star+Play+Store+%26+App+Store+Ratings;Explore+My+Live+Apps+at+ranasheikh.is-a.dev" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Organized Status & Highlights Badges -->
+<!-- Status & Highlights Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Status" />
   &nbsp;
@@ -48,7 +48,7 @@
 
 ## 👨‍💻 Professional Summary
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
 Results-driven **Full-Stack Mobile Engineer** with over **4+ years of professional experience** architecting and shipping **15+ production-grade** cross-platform applications across **Fintech, Healthtech, AI, and On-Demand Marketplace** domains.
 
@@ -91,13 +91,14 @@ class RanaSheikh extends FullStackMobileEngineer {
 
 ---
 
-## 📱 Featured Flagship Production Apps (Live on Stores)
+## 🚀 Featured Flagship Production Apps (Live on Stores)
 
+<!-- 1. Doerly Card -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
       <h3>🛍️ Doerly — Local Services Marketplace</h3>
-      <p><b>Dual-Role On-Demand Marketplace Platform</b></p>
+      <p><b>Dual-Role On-Demand Marketplace Platform (Client &amp; Provider in One Tap)</b></p>
       <p>Connects local service seekers with verified service providers in real time. Features seamless client/provider mode switching, in-app messaging, real-time job bidding, live GPS tracking, automated work timers, and secure Stripe payouts.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -114,22 +115,31 @@ class RanaSheikh extends FullStackMobileEngineer {
       <a href="https://www.doerly.pro" target="_blank">
         <img src="https://img.shields.io/badge/Website-doerly.pro-00D9FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
       </a>
+      <br/><br/>
+      <details>
+        <summary><b>🔍 Tap to View More Screenshots (5 Screens)</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/nvdn8etrficmknvwhuhz.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/sglxnh8khgfr7vfylr7j.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/rvupibznnxiexjsf2pnc.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </details>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="135" alt="Doerly 1" style="border-radius: 12px; margin: 3px;" />
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="135" alt="Doerly 2" style="border-radius: 12px; margin: 3px;" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="135" alt="Doerly Screen 1" style="border-radius: 12px; margin: 4px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="135" alt="Doerly Screen 2" style="border-radius: 12px; margin: 4px;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- 2. WanderX Card -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
       <h3>🎙️ WanderX — AI Voice Translation &amp; Subtitles</h3>
       <p><b>Real-Time Voice-to-Voice AI Translation Platform</b></p>
-      <p>Powered by advanced AI speech models. Delivers instant vocal-to-vocal translation, automated video subtitle generation, cross-platform audio sharing, and specialized audio processing pipelines to preserve tone and nuance.</p>
+      <p>Powered by advanced AI speech models. Delivers instant vocal-to-vocal translation, automated video subtitle generation, cross-platform audio sharing, and specialized audio processing pipelines to preserve natural tone and nuance.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
@@ -140,22 +150,31 @@ class RanaSheikh extends FullStackMobileEngineer {
       <a href="https://play.google.com/store/apps/details?id=com.wanderx.app" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
       </a>
+      <br/><br/>
+      <details>
+        <summary><b>🔍 Tap to View More Screenshots (9 Screens)</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/rin5mquofps8gweyh9c4.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551316/portfolio_projects/vqkfkgctopd8ztl6ffrs.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551316/portfolio_projects/whxxj72binlh1fmpayje.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </details>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="135" alt="WanderX 1" style="border-radius: 12px; margin: 3px;" />
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="135" alt="WanderX 2" style="border-radius: 12px; margin: 3px;" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="135" alt="WanderX Screen 1" style="border-radius: 12px; margin: 4px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="135" alt="WanderX Screen 2" style="border-radius: 12px; margin: 4px;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- 3. Sable Dreams Card -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
       <h3>🌙 Sable Dreams — AI Journaling &amp; Self-Growth</h3>
       <p><b>Mindful Journaling &amp; Daily Becoming Sanctuary</b></p>
-      <p>An elevated daily sanctuary blending reflection, affirmation, mood tracking, curated book recommendations, and <i>Sable</i> — an intelligent AI reflection companion for personal wellness and mindfulness.</p>
+      <p>An elevated daily sanctuary blending reflection, affirmation, mood tracking, curated book recommendations, and <i>Sable</i> — an intelligent AI reflection companion for personal wellness, mindfulness, and manifestation.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Firebase_Auth-FFA611?style=flat-square&logo=firebase&logoColor=white" alt="Auth" />
@@ -166,10 +185,18 @@ class RanaSheikh extends FullStackMobileEngineer {
       <a href="https://play.google.com/store/apps/details?id=com.sabledream.sabledreamapp" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
       </a>
+      <br/><br/>
+      <details>
+        <summary><b>🔍 Tap to View More Screenshots (9 Screens)</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/nvwo6sn03rmehc47bdgo.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/tmcsxrx7igmqoyyrab1d.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/nibjsyzko5bduavdweme.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </details>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="135" alt="Sable Dreams 1" style="border-radius: 12px; margin: 3px;" />
-      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="135" alt="Sable Dreams 2" style="border-radius: 12px; margin: 3px;" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="135" alt="Sable Dreams Screen 1" style="border-radius: 12px; margin: 4px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="135" alt="Sable Dreams Screen 2" style="border-radius: 12px; margin: 4px;" />
     </td>
   </tr>
 </table>
@@ -178,15 +205,96 @@ class RanaSheikh extends FullStackMobileEngineer {
 
 ## 💼 Additional Client & Enterprise Projects
 
-<div align="center">
-
-| Project | Overview & Key Features | Technologies | App Previews |
-|---|---|---|:---:|
-| 🛞 **BHookD** | **On-Demand Roadside Assistance**<br/>Connects stranded drivers with nearby towing trucks and emergency roadside mechanics with live GPS tracking and dispatch. | `Flutter` `Google Maps`<br/>`Node.js` `WebSockets` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="90" /> |
-| 🌸 **Blossom Wellness** | **Holistic Health & Habit Coaching**<br/>Daily wellness routine builder, mindfulness logs, habit coaching, audio meditation guides, and progress tracking. | `Flutter` `BLoC`<br/>`Supabase` `Cloud Storage` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="90" /> |
-| ⚖️ **ContractClear** | **Legal Document & Contract Analysis**<br/>AI-assisted legal document parsing, clause verification, automated risk detection, and smart contract audit tool. | `Flutter` `Dart`<br/>`REST APIs` `AI Engine` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="90" /> |
-
-</div>
+<table width="100%">
+  <tr>
+    <!-- Project 1: BHookD -->
+    <td width="50%" valign="top">
+      <h3>🛞 BHookD</h3>
+      <p><b>On-Demand Roadside Assistance &amp; Towing</b></p>
+      <p>Connects stranded drivers with nearby towing trucks and emergency roadside mechanics via real-time GPS dispatch and live job status tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </p>
+      <details>
+        <summary><b>🔍 Tap to View More Previews</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/wnrallrdovmbjbbe4fxr.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444132/portfolio_projects/p7nyixvzvzy8mksuihis.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+      </details>
+    </td>
+    <!-- Project 2: Blossom Wellness -->
+    <td width="50%" valign="top">
+      <h3>🌸 Blossom Wellness</h3>
+      <p><b>Holistic Health, Habit Coaching &amp; Mindfulness</b></p>
+      <p>Daily wellness routine builder, mindfulness logs, habit coaching, guided audio meditations, and comprehensive personal progress tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/BLoC-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </p>
+      <details>
+        <summary><b>🔍 Tap to View More Previews</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/h6lalme748xc8ru3dfqt.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444494/portfolio_projects/nbldhpftnuksgh8zn083.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: ContractClear -->
+    <td width="50%" valign="top">
+      <h3>⚖️ ContractClear</h3>
+      <p><b>AI Legal Document &amp; Contract Analysis</b></p>
+      <p>Intelligent legal document parser, clause-level risk detection, automated compliance verification, and smart contract audit assistant.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Engine-00D9FF?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </p>
+      <details>
+        <summary><b>🔍 Tap to View More Previews</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/hw6kq9yqcx0jbldkuqwj.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516575/portfolio_projects/k2r2pqkvjx42rqekhblc.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+      </details>
+    </td>
+    <!-- Project 4: Halal Motives -->
+    <td width="50%" valign="top">
+      <h3>🌙 Halal Motives</h3>
+      <p><b>Islamic Quotes &amp; Daily Spiritual Motivation</b></p>
+      <p>Curated Islamic reminders, daily Quranic reflections, elegant typographic cards, notification engine, and offline quote bookmarking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hive_DB-F9A825?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784438043/portfolio_projects/b0vuza7spcy5eud9xqnz.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784438043/portfolio_projects/odyjkmvydpthgnonybsr.jpg" width="105" style="border-radius: 8px; margin: 2px;" />
+      </p>
+      <details>
+        <summary><b>🔍 Tap to View More Previews</b></summary>
+        <br/>
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784438043/portfolio_projects/zw52ggnnmgls6evrr4rh.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+        <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784438092/portfolio_projects/t03hfqmowg1j5tpy5zum.jpg" width="100" style="border-radius: 8px; margin: 2px;" />
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
