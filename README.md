@@ -91,111 +91,102 @@ class RanaSheikh extends FullStackMobileEngineer {
 
 ---
 
-## 📱 Live Production Apps & Play Store Previews
+## 📱 Featured Flagship Production Apps (Live on Stores)
 
-Real-world production apps engineered, published, and maintained for global client bases:
-
-### 1. 🛍️ Doerly — On-Demand Local Services Marketplace
-
-> **The ultimate cross-platform on-demand marketplace** connecting local service seekers with skilled providers in real time. Features dual-role account switching, in-app messaging, real-time job bidding, geolocation tracking, automated work timers, and secure Stripe payments.
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.buddyhelp.buddyhelpapp" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play_Store-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.doerly.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Website-doerly.pro-00D9FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-  <br/><br/>
-  <p align="center">
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="175" alt="Doerly Preview 1" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="175" alt="Doerly Preview 2" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/nvdn8etrficmknvwhuhz.jpg" width="175" alt="Doerly Preview 3" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/sglxnh8khgfr7vfylr7j.jpg" width="175" alt="Doerly Preview 4" />
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🛍️ Doerly — Local Services Marketplace</h3>
+      <p><b>Dual-Role On-Demand Marketplace Platform</b></p>
+      <p>Connects local service seekers with verified service providers in real time. Features seamless client/provider mode switching, in-app messaging, real-time job bidding, live GPS tracking, automated work timers, and secure Stripe payouts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" alt="GetX" />
+        <img src="https://img.shields.io/badge/Stripe_Payouts-6772E5?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Maps" />
+      </p>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.buddyhelp.buddyhelpapp" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+      </a>
+      &nbsp;
+      <a href="https://www.doerly.pro" target="_blank">
+        <img src="https://img.shields.io/badge/Website-doerly.pro-00D9FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/qwg7y5gnnusrwuwelwi4.jpg" width="135" alt="Doerly 1" style="border-radius: 12px; margin: 3px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784399514/portfolio_projects/kltkg4adruytda8wkrul.jpg" width="135" alt="Doerly 2" style="border-radius: 12px; margin: 3px;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🎙️ WanderX — AI Voice Translation &amp; Subtitles</h3>
+      <p><b>Real-Time Voice-to-Voice AI Translation Platform</b></p>
+      <p>Powered by advanced AI speech models. Delivers instant vocal-to-vocal translation, automated video subtitle generation, cross-platform audio sharing, and specialized audio processing pipelines to preserve tone and nuance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/AI_Speech_APIs-00D9FF?style=flat-square" alt="AI APIs" />
+        <img src="https://img.shields.io/badge/Audio_Pipeline-FF6B6B?style=flat-square" alt="Audio Engine" />
+      </p>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.wanderx.app" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="135" alt="WanderX 1" style="border-radius: 12px; margin: 3px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="135" alt="WanderX 2" style="border-radius: 12px; margin: 3px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🌙 Sable Dreams — AI Journaling &amp; Self-Growth</h3>
+      <p><b>Mindful Journaling &amp; Daily Becoming Sanctuary</b></p>
+      <p>An elevated daily sanctuary blending reflection, affirmation, mood tracking, curated book recommendations, and <i>Sable</i> — an intelligent AI reflection companion for personal wellness and mindfulness.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase_Auth-FFA611?style=flat-square&logo=firebase&logoColor=white" alt="Auth" />
+        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
+        <img src="https://img.shields.io/badge/AI_Companion-8A2BE2?style=flat-square" alt="AI Guide" />
+      </p>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.sabledream.sabledreamapp" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Play-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="135" alt="Sable Dreams 1" style="border-radius: 12px; margin: 3px;" />
+      <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="135" alt="Sable Dreams 2" style="border-radius: 12px; margin: 3px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 2. 🎙️ WanderX — AI Voice Translation & Audio Subtitling
-
-> **Next-generation voice translation app** powered by state-of-the-art AI speech models. Delivers instant vocal-to-vocal translation, video subtitle generation, cross-platform audio sharing, and advanced audio processing pipelines to preserve tone and nuance.
+## 💼 Additional Client & Enterprise Projects
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.wanderx.app" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play_Store-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
-  </a>
-  <br/><br/>
-  <p align="center">
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/zfeykackth19ex5ci68u.jpg" width="175" alt="WanderX Preview 1" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/yhyx1knopk1vlx9h0syb.jpg" width="175" alt="WanderX Preview 2" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551301/portfolio_projects/rin5mquofps8gweyh9c4.jpg" width="175" alt="WanderX Preview 3" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784551316/portfolio_projects/vqkfkgctopd8ztl6ffrs.jpg" width="175" alt="WanderX Preview 4" />
-  </p>
+
+| Project | Overview & Key Features | Technologies | App Previews |
+|---|---|---|:---:|
+| 🛞 **BHookD** | **On-Demand Roadside Assistance**<br/>Connects stranded drivers with nearby towing trucks and emergency roadside mechanics with live GPS tracking and dispatch. | `Flutter` `Google Maps`<br/>`Node.js` `WebSockets` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="90" /> |
+| 🌸 **Blossom Wellness** | **Holistic Health & Habit Coaching**<br/>Daily wellness routine builder, mindfulness logs, habit coaching, audio meditation guides, and progress tracking. | `Flutter` `BLoC`<br/>`Supabase` `Cloud Storage` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="90" /> |
+| ⚖️ **ContractClear** | **Legal Document & Contract Analysis**<br/>AI-assisted legal document parsing, clause verification, automated risk detection, and smart contract audit tool. | `Flutter` `Dart`<br/>`REST APIs` `AI Engine` | <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="90" /> <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="90" /> |
+
 </div>
-
-<br/>
-
----
-
-### 3. 🌙 Sable Dreams — AI Journaling & Self-Growth Sanctuary
-
-> **Elevated daily journaling, reflection, and self-care sanctuary.** Built with daily affirmations, guided reflections, mood tracking, curated book recommendations, and *Sable* — an intelligent AI reflection companion for personal wellness.
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.sabledream.sabledreamapp" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play_Store-Install_Now-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
-  </a>
-  <br/><br/>
-  <p align="center">
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/e37vznqexvbx6yy9uuta.jpg" width="175" alt="Sable Dreams Preview 1" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124258/portfolio_projects/rfikyazp3lrgmyxweexo.jpg" width="175" alt="Sable Dreams Preview 2" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/tmcsxrx7igmqoyyrab1d.jpg" width="175" alt="Sable Dreams Preview 3" />&nbsp;
-    <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1789124257/portfolio_projects/nibjsyzko5bduavdweme.jpg" width="175" alt="Sable Dreams Preview 4" />
-  </p>
-</div>
-
-<br/>
-
----
-
-### 4. 🚗 Additional Notable Client Projects
-
-<details open>
-<summary><b>✨ Click to Collapse / Expand Additional Client Projects</b></summary>
-<br/>
-
-#### 🛞 BHookD — On-Demand Roadside Assistance & Emergency Towing
-Connects stranded drivers with nearby towing trucks and emergency roadside mechanics in real-time with GPS dispatching.
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/y5geg8uxvm5xapc7q6jw.jpg" width="180" alt="BHookD 1" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/zadimcosbdrkhsmcgdnw.jpg" width="180" alt="BHookD 2" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444030/portfolio_projects/wnrallrdovmbjbbe4fxr.jpg" width="180" alt="BHookD 3" />
-</p>
-
-#### 🌸 Blossom Wellness — Holistic Health, Routines & Habit Coaching
-Comprehensive habit tracking, daily wellness routines, mindfulness exercises, and habit coaching.
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/y209gddkyomzvt4xuija.jpg" width="180" alt="Blossom 1" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/e6xthpyjpwjg2whv70jl.jpg" width="180" alt="Blossom 2" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784444479/portfolio_projects/h6lalme748xc8ru3dfqt.jpg" width="180" alt="Blossom 3" />
-</p>
-
-#### ⚖️ ContractClear — Smart Contract Analysis & Legal Document Verification
-AI-powered document parser, risk detector, and clause comparison engine for legal agreements.
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/frbvrzxgccsu3mm0dthe.jpg" width="180" alt="ContractClear 1" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/avipyomugitdq1ojqwiz.jpg" width="180" alt="ContractClear 2" />&nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/dbmnia6qh/image/upload/v1784516551/portfolio_projects/hw6kq9yqcx0jbldkuqwj.jpg" width="180" alt="ContractClear 3" />
-</p>
-
-</details>
 
 ---
 
